@@ -32,5 +32,5 @@ After scrolling close to the bottom, new random images will apear.
 
 # 💻 Development
 1. run index.html on your browser
-2. git clone https://github.com/valerijadrinek/image-gallery-from-unsplash.git
-3. git pages 
+2. git clone https://github.com/valerijadrinek/image-gallery.git
+3. github pages 
