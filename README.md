@@ -10,7 +10,7 @@ To get access to the app's content you need to run it into your browser.
 
 ## Content
 
-After loading page, first 30 random images will apear under headline.
+After loading page, first 30 random images will appear under headline.
 
 All images will have title that is displayed when user hovers over an image. 
 
@@ -22,7 +22,7 @@ All images will have title that is displayed when user hovers over an image.
 
 ![link unsplash](./assets/link-unsplash.png "link unsplash")
 
-After scrolling close to the bottom, new random images will apear. 
+After scrolling close to the bottom, new random images will appear. 
 
 
 # 👉 Built with
